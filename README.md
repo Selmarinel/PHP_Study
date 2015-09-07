@@ -11,3 +11,5 @@ https://www.youtube.com/watch?v=hYZFh-XBJIw&list=PLozO9OD1_wSckfM9QgFeqf7AT6bR9u
 https://www.youtube.com/watch?v=ZdP0KM49IVk
 http://ruseller.com/lessons.php?rub=37&page=56
 http://www.spravkaweb.ru/php
+http://help.ubuntu.ru/wiki/php5
+
