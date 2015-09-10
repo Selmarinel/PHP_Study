@@ -13,3 +13,10 @@ http://ruseller.com/lessons.php?rub=37&page=56
 http://www.spravkaweb.ru/php
 http://help.ubuntu.ru/wiki/php5
 
+2) Do some exercises with PHP
+explored functions, includes&requides, classes in basic, arrays in first dimention, strings and recursion e.t.c.
+In nearest future, upload my files here)
+3) Hi, Yoroslav. I am doing something) I am good boy)) hihi))
+4) It's awesome, that what I do
+5) My English is discoust!
+
