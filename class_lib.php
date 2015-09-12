@@ -1,8 +1,8 @@
 <?php
 class myClass {
-    var $myValue = "Yurik";
+    var $myValue = "Yorik";
     function myMethod() {
-        echo "My name is " . $this->myValue . "<br>";
+        echo "My name is <B>" . $this->myValue . "</B>.<br>";
     }
 }
 ?>

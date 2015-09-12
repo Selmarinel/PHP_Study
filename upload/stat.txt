@@ -1,0 +1,207 @@
+Name: PT Sans_32bw
+ GenerateFace: PT Sans
+ ImageHeight: 40
+ LineHeight: 42
+ EllipsisWidth: 24
+ BaseLineY: 32
+ Chars count: 14
+
+Name: PT Sans_18bw_17
+ GenerateFace: 
+ ImageHeight: 0
+ LineHeight: 17
+ EllipsisWidth: 0
+ BaseLineY: 0
+ Chars count: 0
+
+Name: PT Sans_18b
+ GenerateFace: PT Sans
+ ImageHeight: 22
+ LineHeight: 23
+ EllipsisWidth: 14
+ BaseLineY: 17
+ Chars count: 14
+
+Name: PT Sans_18
+ GenerateFace: 
+ ImageHeight: 0
+ LineHeight: 23
+ EllipsisWidth: 0
+ BaseLineY: 0
+ Chars count: 0
+
+Name: PT Sans_16b
+ GenerateFace: 
+ ImageHeight: 0
+ LineHeight: 21
+ EllipsisWidth: 0
+ BaseLineY: 0
+ Chars count: 0
+
+Name: PT Sans_16
+ GenerateFace: 
+ ImageHeight: 0
+ LineHeight: 21
+ EllipsisWidth: 0
+ BaseLineY: 0
+ Chars count: 0
+
+Name: PT Sans_15w
+ GenerateFace: 
+ ImageHeight: 0
+ LineHeight: 19
+ EllipsisWidth: 0
+ BaseLineY: 0
+ Chars count: 0
+
+Name: PT Sans_15bw
+ GenerateFace: 
+ ImageHeight: 0
+ LineHeight: 19
+ EllipsisWidth: 0
+ BaseLineY: 0
+ Chars count: 0
+
+Name: PT Sans_15b
+ GenerateFace: PT Sans
+ ImageHeight: 18
+ LineHeight: 19
+ EllipsisWidth: 12
+ BaseLineY: 14
+ Chars count: 41
+
+Name: PT Sans_15
+ GenerateFace: PT Sans
+ ImageHeight: 18
+ LineHeight: 19
+ EllipsisWidth: 11
+ BaseLineY: 14
+ Chars count: 81
+
+Name: PT Sans_14w
+ GenerateFace: PT Sans
+ ImageHeight: 17
+ LineHeight: 18
+ EllipsisWidth: 11
+ BaseLineY: 13
+ Chars count: 18
+
+Name: PT Sans_14bw
+ GenerateFace: PT Sans
+ ImageHeight: 17
+ LineHeight: 18
+ EllipsisWidth: 11
+ BaseLineY: 13
+ Chars count: 23
+
+Name: PT Sans_14b_14
+ GenerateFace: PT Sans
+ ImageHeight: 17
+ LineHeight: 14
+ EllipsisWidth: 11
+ BaseLineY: 13
+ Chars count: 35
+
+Name: PT Sans_14b
+ GenerateFace: PT Sans
+ ImageHeight: 17
+ LineHeight: 18
+ EllipsisWidth: 11
+ BaseLineY: 13
+ Chars count: 5
+
+Name: PT Sans_14
+ GenerateFace: PT Sans
+ ImageHeight: 17
+ LineHeight: 18
+ EllipsisWidth: 11
+ BaseLineY: 13
+ Chars count: 30
+
+Name: PT Sans_13w
+ GenerateFace: PT Sans
+ ImageHeight: 16
+ LineHeight: 17
+ EllipsisWidth: 10
+ BaseLineY: 12
+ Chars count: 38
+
+Name: PT Sans_13b
+ GenerateFace: 
+ ImageHeight: 0
+ LineHeight: 17
+ EllipsisWidth: 0
+ BaseLineY: 0
+ Chars count: 0
+
+Name: PT Sans_13
+ GenerateFace: PT Sans
+ ImageHeight: 16
+ LineHeight: 17
+ EllipsisWidth: 10
+ BaseLineY: 8
+ Chars count: 35
+
+Name: PT Sans_12w
+ GenerateFace: PT Sans
+ ImageHeight: 15
+ LineHeight: 15
+ EllipsisWidth: 9
+ BaseLineY: 11
+ Chars count: 19
+
+Name: PT Sans_12b
+ GenerateFace: 
+ ImageHeight: 0
+ LineHeight: 15
+ EllipsisWidth: 0
+ BaseLineY: 0
+ Chars count: 0
+
+Name: PT Sans_12
+ GenerateFace: PT Sans
+ ImageHeight: 15
+ LineHeight: 15
+ EllipsisWidth: 9
+ BaseLineY: 7
+ Chars count: 4
+
+Name: PT Sans_11w
+ GenerateFace: 
+ ImageHeight: 0
+ LineHeight: 14
+ EllipsisWidth: 0
+ BaseLineY: 0
+ Chars count: 0
+
+Name: Proxima Nova Lt_20a
+ GenerateFace: 
+ ImageHeight: 0
+ LineHeight: 26
+ EllipsisWidth: 0
+ BaseLineY: 0
+ Chars count: 0
+
+Name: Arial_12b
+ GenerateFace: 
+ ImageHeight: 0
+ LineHeight: 15
+ EllipsisWidth: 0
+ BaseLineY: 0
+ Chars count: 0
+
+Name: Arial_12
+ GenerateFace: 
+ ImageHeight: 0
+ LineHeight: 15
+ EllipsisWidth: 0
+ BaseLineY: 0
+ Chars count: 0
+
+Name: Arial_11
+ GenerateFace: 
+ ImageHeight: 0
+ LineHeight: 14
+ EllipsisWidth: 0
+ BaseLineY: 0
+ Chars count: 0

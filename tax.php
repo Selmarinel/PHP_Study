@@ -7,16 +7,13 @@ function factorial(&$num)
         $re = $re * $i;
 
     }
-     echo "this $re <br>";
+     echo "equal $re <br>";
   }
 function fac2($x)
 {
     if ($x === 0) return 1;
     else return $x*fac2($x-1);
 }
-$nu=6;
-factorial($nu);
-echo "and this ", fac2(7), "<br>";
 
 function display_value()
 {

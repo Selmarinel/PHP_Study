@@ -14,9 +14,19 @@ else
     {
         echo "Good afternoon";
     }
-
+    
+   $name = "Antom";
    echo "<br>";
-   $name = "Dima";
+   if (isset($_POST["name"]))
+   {
+       $name = $_POST["name"];
+   }
+  ?>
+<form action="1.php" Method=POST>
+<input type="text" name="name"  value="<?php echo $name ?>"/>
+<input type="submit" value="Friend or not friend?"/>
+</form>
+<?php
   switch ($name)
   {
       case "Dima":
@@ -34,10 +44,21 @@ else
 
   printf('<br>');
   echo "Recursy <hr>";
-
-$num=34;
+$num=1;
+if (isset($_POST["num"]))
+{
+    $num = (int) $_POST["num"];
+}
+?>
+<form action="1.php" Method=POST>
+<input type="text" name="num" value="<?php echo $num ?>"/>
+<input type="submit" value="account factorial"/>
+</form>
+<?php
 //class test
 include_once "tax.php";
+echo factorial($num);
+echo "equal " . fac2($num+1) . "<br>";
 $value=100;
 display_value();
 change_value();
@@ -100,7 +121,7 @@ print "</Pre>";
 echo "or see this one <br>";
 while ( list ($key, $value)= each ($temps))
 {
-    echo "key $key has value $value <br>";
+    echo "key = $key has value =  $value <br>";
 }
 
 $temps[wah_wah] +=$temps[and_this]+1;
@@ -119,7 +140,7 @@ asort($merged);
 print_r($merged);
 print "</PRE>";
 echo count($merged) . "<br>";
-//echo serialize($temps);
+echo serialize($temps);
 //unserialize($temps);
 if (array_key_exists("wah_wah", $temps) && array_key_exists("wah_wah", $merged))
 {
