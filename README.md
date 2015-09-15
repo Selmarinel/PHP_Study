@@ -1,22 +1,7 @@
 # PHP_Study
 todo:
-1.find lessons PHP 07/09/2015
-2.see one of them and find better 12/09/2015
-3.find lessons of JavaScript and JQuery 20/09/2015
-
-1)
-https://www.youtube.com/watch?v=xbT5hVIDS10&list=PLyoFfkRkSEGSvE3RTTTkjrelgbLZ06IM-&index=1
-https://www.youtube.com/playlist?list=PLyOt0emVYpV4dN-MBh2ane_mhyKnEYrfV
-https://www.youtube.com/watch?v=hYZFh-XBJIw&list=PLozO9OD1_wSckfM9QgFeqf7AT6bR9u54T
-https://www.youtube.com/watch?v=ZdP0KM49IVk
-http://ruseller.com/lessons.php?rub=37&page=56
-http://www.spravkaweb.ru/php
-http://help.ubuntu.ru/wiki/php5
-
-2) Do some exercises with PHP
-explored functions, includes&requides, classes in basic, arrays in first dimention, strings and recursion e.t.c.
-In nearest future, upload my files here)
-3) Hi, Yoroslav. I am doing something) I am good boy)) hihi))
-4) It's awesome, that what I do
-5) My English is discoust!
+https://www.codecademy.com/learn
+4%
+[k0stix] Создание собственного фреймворка (red-hot-chile-phpeppers-(self-made-php-framework)) [2011, RUS]
+2 папки
 
